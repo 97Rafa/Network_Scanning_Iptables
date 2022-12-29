@@ -24,7 +24,6 @@ described below you can build some adblock rules.
         Display this help and exit
 
 ## Notes:
-You can only run the program as root so you should use `sudo`
-
-The command `sudo ./adblock.sh -domains` may take a while, please
-    be patient 
+1. You can only run the program as root so you should use `sudo`
+2. The command `sudo ./adblock.sh -domains` may take a while, please
+be patient 
